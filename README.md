@@ -20,5 +20,5 @@ Sample Input:
 5 2 \n
 1 2 3 4 5
 
-Sample Output
+Sample Output:
 4 5 1 2 3
