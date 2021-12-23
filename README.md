@@ -16,8 +16,8 @@ Output:
 Print the required array.
 
 Sample Input:
-1
-5 2
+1 \n
+5 2 \n
 1 2 3 4 5
 
 Sample Output
