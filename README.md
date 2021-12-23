@@ -15,7 +15,7 @@ For each test case:
 Output:
 Print the required array.
 
-Sample Input
+Sample Input:
 1
 5 2
 1 2 3 4 5
