@@ -7,7 +7,7 @@ import java.util.stream.Collectors;
 public class Rotation {
 	public static void main(String args[]) throws Exception {
         @SuppressWarnings("resource")
-		Scanner scan = new Scanner(System.in);
+        Scanner scan = new Scanner(System.in);
         System.out.println("Enter line");
         int firstLine = Integer.parseInt(scan.nextLine());
         for (int i=0; i < firstLine; i++) {
